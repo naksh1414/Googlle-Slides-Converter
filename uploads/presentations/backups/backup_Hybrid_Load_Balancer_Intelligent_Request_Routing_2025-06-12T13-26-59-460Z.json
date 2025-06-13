@@ -1,0 +1,99 @@
+{
+    "presentation": {
+        "title": "Hybrid-Load-Balancer-Intelligent-Request-Routing",
+        "description": "Uploaded presentation from Hybrid-Load-Balancer-Intelligent-Request-Routing.pptx",
+        "slides": [
+            "slide-1",
+            "slide-2"
+        ],
+        "settings": {
+            "dimensions": {
+                "width": 1920,
+                "height": 1080,
+                "aspectRatio": "16:9"
+            },
+            "theme": {
+                "primaryColor": {
+                    "hex": "#007bff"
+                },
+                "secondaryColor": {
+                    "hex": "#6c757d"
+                },
+                "backgroundColor": {
+                    "hex": "#ffffff"
+                },
+                "textColor": {
+                    "hex": "#333333"
+                },
+                "accentColor": {
+                    "hex": "#28a745"
+                }
+            },
+            "defaultFont": {
+                "family": "Arial",
+                "size": 14,
+                "weight": 400,
+                "style": "normal"
+            }
+        },
+        "_id": "684ad5a374cffdc483402e7d",
+        "createdAt": "2025-06-12T13:26:59.460Z",
+        "updatedAt": "2025-06-12T13:26:59.460Z"
+    },
+    "slides": [
+        {
+            "slideNumber": 1,
+            "title": "Uploaded Content",
+            "elements": [
+                {
+                    "id": "title-text",
+                    "type": "text",
+                    "position": {
+                        "x": 100,
+                        "y": 200
+                    },
+                    "dimensions": {
+                        "width": 800,
+                        "height": 100
+                    },
+                    "rotation": 0,
+                    "opacity": 1,
+                    "zIndex": 1,
+                    "locked": false,
+                    "visible": true,
+                    "data": {
+                        "content": "Hybrid-Load-Balancer-Intelligent-Request-Routing",
+                        "font": {
+                            "family": "Arial",
+                            "size": 32,
+                            "weight": 700,
+                            "style": "normal"
+                        },
+                        "color": {
+                            "hex": "#333333"
+                        },
+                        "alignment": "center"
+                    }
+                }
+            ],
+            "background": {
+                "type": "color",
+                "data": {
+                    "color": {
+                        "hex": "#ffffff"
+                    }
+                }
+            },
+            "_id": "684ad5a374cffdc483402e7f",
+            "presentationId": "684ad5a374cffdc483402e7d",
+            "createdAt": "2025-06-12T13:26:59.460Z",
+            "updatedAt": "2025-06-12T13:26:59.460Z"
+        }
+    ],
+    "metadata": {
+        "source": "upload",
+        "uploadedAt": "2025-06-12T13:26:59.460Z",
+        "mongodbId": "684ad5a374cffdc483402e7d",
+        "totalSlides": 1
+    }
+}

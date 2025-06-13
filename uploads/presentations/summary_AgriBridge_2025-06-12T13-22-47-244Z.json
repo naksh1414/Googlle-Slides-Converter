@@ -1,0 +1,17 @@
+{
+  "presentationId": "684ad4a740880232d9d0f441",
+  "title": "AgriBridge",
+  "description": "Uploaded presentation from AgriBridge.pptx",
+  "slideCount": 1,
+  "createdAt": "2025-06-12T13:22:47.250Z",
+  "files": {
+    "main": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\AgriBridge_2025-06-12T13-22-47-244Z.json",
+    "backup": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\backups\\backup_AgriBridge_2025-06-12T13-22-47-244Z.json"
+  },
+  "mongodb": {
+    "presentationId": "684ad4a740880232d9d0f441",
+    "slideIds": [
+      "684ad4a740880232d9d0f443"
+    ]
+  }
+}

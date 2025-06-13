@@ -1,0 +1,17 @@
+{
+  "presentationId": "684acf9f40880232d9d0f427",
+  "title": "fabric sdk",
+  "description": "Uploaded presentation from fabric sdk.pptx",
+  "slideCount": 1,
+  "createdAt": "2025-06-12T13:01:19.740Z",
+  "files": {
+    "main": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\fabric_sdk_2025-06-12T13-01-19-735Z.json",
+    "backup": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\backups\\backup_fabric_sdk_2025-06-12T13-01-19-735Z.json"
+  },
+  "mongodb": {
+    "presentationId": "684acf9f40880232d9d0f427",
+    "slideIds": [
+      "684acf9f40880232d9d0f429"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "presentationId": "684adccb15073a66b2837b25",
+  "title": "test",
+  "description": "Uploaded presentation from test.pptx",
+  "slideCount": 1,
+  "createdAt": "2025-06-12T13:57:32.259Z",
+  "files": {
+    "main": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\test_2025-06-12T13-57-32-256Z.json",
+    "backup": "C:\\Users\\NAKSH\\Desktop\\google-slides-export-script\\uploads\\presentations\\backups\\backup_test_2025-06-12T13-57-32-256Z.json"
+  },
+  "mongodb": {
+    "presentationId": "684adccb15073a66b2837b25",
+    "slideIds": [
+      "684adccc15073a66b2837b2c"
+    ]
+  }
+}
